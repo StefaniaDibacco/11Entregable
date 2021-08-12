@@ -1,0 +1,2 @@
+De las tres plantillas la que mas me gusto fue pug, ya que
+tene muchas menos etiquetas y me resulto mas simple.
